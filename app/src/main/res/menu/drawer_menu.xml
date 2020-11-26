@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:title="Generale">
+        <menu>
+            <item
+                android:id="@+id/home"
+                android:title="Home"
+                android:icon="@drawable/ic_baseline_home_24" />
+            <item
+                android:id="@+id/another"
+                android:title="Another"
+                android:icon="@drawable/ic_baseline_grade_24" />
+        </menu>
+    </item>
+
+    <item android:title="Comunicazione">
+        <menu>
+            <item
+                android:id="@+id/home1"
+                android:title="Home"
+                android:icon="@drawable/ic_baseline_home_24" />
+            <item
+                android:id="@+id/another1"
+                android:title="Another"
+                android:icon="@drawable/ic_baseline_grade_24" />
+        </menu>
+    </item>
+</menu>
